@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: HomeScreen(title: 'Flutter Another features'),
+      home: HomeScreen(title: 'Flutter Another featuressssss'),
     );
   }
 }
